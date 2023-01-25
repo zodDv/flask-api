@@ -6,7 +6,7 @@ This is a simple CRUD API application made with flask that uses JWT Authenticati
 
 ```python
 # clone repo
-git clone 
+git clone https://github.com/zodDv/flask-api.git 
 
 # go to repo
 cd <path-to-my-project>
